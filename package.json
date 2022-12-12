@@ -1,0 +1,12 @@
+{
+  "name": "todoist-to-notion",
+  "version": "0.1.0",
+  "description": "Upload your Todoist tasks to Notion with AWS Lambda scheduled function",
+  "main": "index.ts",
+  "author": "deko95",
+  "license": "ISC",
+  "dependencies": {
+    "@doist/todoist-api-typescript": "^2.1.2",
+    "@notionhq/client": "^2.2.2"
+  }
+}
